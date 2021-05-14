@@ -534,7 +534,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(/Portfolio/tunis/images/HeadShot.jpg);
+  background-image: url(/tunis/images/ProfilePic.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -586,6 +586,54 @@ body.light hr.separator {
   font-size: 22px;
   font-weight: 400;
   display: block;
+}
+
+#htmlContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#javaContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#cssContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#nodeContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#exContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#postContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#reactContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#reduxContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .home .home-details p {
