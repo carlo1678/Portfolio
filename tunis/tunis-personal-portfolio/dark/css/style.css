@@ -534,7 +534,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(/tunis/images/ProfilePic.jpg);
+  background-image: url(./images/ProfilePic.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
