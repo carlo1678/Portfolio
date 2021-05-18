@@ -535,7 +535,7 @@ body.light hr.separator {
 
 .home .bg {
   background-image: url(../images/ProfilePic.jpg);
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   height: calc(100vh - 80px);
