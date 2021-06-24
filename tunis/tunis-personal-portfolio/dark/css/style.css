@@ -409,6 +409,12 @@ body.light hr.separator {
   color: rgba(255, 255, 255, 0.07);
 }
 
+.contactInfo {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 /* [ HEADER ] */
 /*================================================== */
 
